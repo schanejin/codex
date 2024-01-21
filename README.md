@@ -1,3 +1,5 @@
+# CODEX
+
 ## La incertidumbre
 Codex está basado en un control de incertidumbres. La incertidumbre, adquiere un protagonismo esencial en la toma de decisiones estratégicas. En aquel territorio establecido como capital, se establecerá el centro de mando. Desde este centro de poder, el gobernador puede ordenar acciones a seguir. Sin embargo, no cuentas con la seguridad de lo que ocurre realmente, sino que más bien manejas lo que debería estar ocurriendo. 
 
