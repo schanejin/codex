@@ -7,7 +7,7 @@ Mas allá de las necesidades primarias, se encuentran otro tipo de necesidades d
 
 Cada necesidad requiere de uno o más recursos, pudiendo un mismo recurso servir para varias necesidades.
 
-## categorías
+#### Ejemplos de categorías de recursos primarios
 
 - alimentos 
 
@@ -18,12 +18,24 @@ Cada necesidad requiere de uno o más recursos, pudiendo un mismo recurso servir
 
 - higiene
 
-        ríos, fuego, pozos, letrinas, ...
+        ríos, fuego, lluvia, pozos de agua, letrinas, ...
 
 - ropa
 
         pieles, fibras vegetales
 
-- materias primas
+- materiales de construcción
 
-        madera, minerales, rocas de construcción, semillas
+        madera, rocas de construcción, barro, arcilla ...
+
+## Atributos de los recursos
+
+un recurso en el mapa tiene la siguiente estructura
+
+
+| id | cantidad |mano de obra|m<sup>2</sup>| calidad | crecimiento |
+|--|--|--|--|--|--|
+|nro. identificador| 0 .. 65535| 0..255|0..255| número decimal| número decimal
+
+
+
